@@ -1,0 +1,12 @@
+{
+    "name": "trueme/test-composer-alias",
+    "require": {
+        "trueme/composer-alias": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/quocvo87/composer-alias.git"
+        }
+    ]
+}
